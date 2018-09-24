@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trivia Quiz</string>
+    <string name="question_label">How long is the gestation period of an African Elephant?</string>
+    <string name="answer1">6 months</string>
+    <string name="answer2">14 months</string>
+    <string name="answer3">22 months</string>
+    <string name="answer4">36 months</string>
+    <string name="next_button">next</string>
+    <string name="timer_view" />
+    <string name="score" />
+</resources>

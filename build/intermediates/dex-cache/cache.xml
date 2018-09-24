@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\TriviaQuiz3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="06e2cc5c0d30c948ac9edf92b19b057ec80001cc">
+        <dex dex="E:\TriviaQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_655a32d7f125b79484503c4f3655989316eef2fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\TriviaQuiz3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3bba9f2b12145c8a8d8329d2c0612be93f7ed169">
+        <dex dex="E:\TriviaQuiz3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_807944faa520ca4720d9c653c6efe4a87177a048\classes.dex" />
+    </item>
+
+</items>
